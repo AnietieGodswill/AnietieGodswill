@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**dx4iot/dx4iot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dx4iot/dx4iot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Python, C++, Javascript, Cryptography, Ethical Hacking, and Bug Bounty
 - 📫 How to reach me: dx4iot@gmail.com
+
 
 
