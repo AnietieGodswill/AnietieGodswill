@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dx4iot@gmail.com
 
 
-
+![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=true)
