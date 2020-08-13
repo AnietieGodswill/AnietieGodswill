@@ -19,8 +19,8 @@
 [**⭐ GHUB-INFO**](https://github.com/dx4iot/GHUB-INFO) - Find open source info about any github profile<br>
 [**⭐ age-calculator**](https://github.com/dx4iot/age-calculator) - CALCULATE YOUR AGE ON OTHER PLANETS<br>
 [**⭐ BOMB-C4**](https://github.com/dx4iot/BOMB-C4) - {EMAIL BOMBER}<br>
-[**⭐image-search**](https://github.com/dx4iot/image-search) - A simple image search app using React<br>
-[**⭐goodwill-calculator-gui**](https://github.com/dx4iot/goodwill-calculator-gui) -  A program to calculate goodwill<br> 
+[**⭐ image-search**](https://github.com/dx4iot/image-search) - A simple image search app using React<br>
+[**⭐ goodwill-calculator-gui**](https://github.com/dx4iot/goodwill-calculator-gui) -  A program to calculate goodwill<br> 
 
 # Connect with me
 | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/dx4iot/) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dx4iot) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-square-color.svg" alt="instagram logo" width="32">](https://www.instagram.com/dx4iot/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/dx4iot) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13324078/dx4iot) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@dx4iot) | [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dx4iot@gmail.com)
