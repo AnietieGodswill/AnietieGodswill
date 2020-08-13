@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+<img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png" align="center">
 
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Bug Bounty
@@ -29,5 +30,4 @@
 # My github stats
 ![📈 github stats](https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=true)
 
-<img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png">
 
