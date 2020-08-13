@@ -28,6 +28,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 # My github stats
-![📈 github stats](https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=true)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=false&line_height=22">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dx4iot&layout=compact">
+</p>
 
 
