@@ -1,7 +1,7 @@
 ### Hi there 👋
+
 <img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png">
 <!--
-**dx4iot/dx4iot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Bug Bounty
@@ -16,4 +16,19 @@
 | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/dx4iot/) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dx4iot) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-square-color.svg" alt="instagram logo" width="32">](https://www.instagram.com/dx4iot/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/dx4iot) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13324078/dx4iot) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@dx4iot) | [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dx4iot@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
+## Languages I have used
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+## Some of my projects 
+
+[),
+[](https://github.com/),
+[](https://github.com/),
+[](https://github.com/),
+[](https://github.com/)
