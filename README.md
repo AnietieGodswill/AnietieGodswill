@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png">
-
-
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Bug Bounty
 - 👯 I’m looking to collaborate on Python
@@ -26,9 +23,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 # Some of my projects 
-[⭐ GHUB-INFO](https://github.com/dx4iot/GHUB-INFO) -  Find open source info about any github profile
-[⭐ ](https://github.com/)
-[⭐](https://github.com/)
-[⭐](https://github.com/)
-[⭐](https://github.com/)
+[⭐ GHUB-INFO](https://github.com/dx4iot/GHUB-INFO) - Find open source info about any github profile
+[⭐ age-calculator](https://github.com/dx4iot/age-calculator) - CALCULATE YOUR AGE ON OTHER PLANETS
+[⭐ BOMB-C4](https://github.com/dx4iot/BOMB-C4) - {EMAIL BOMBER}
+[⭐image-search](https://github.com/dx4iot/image-search) - A simple image search app using React 
+[⭐goodwill-calculator-gui](https://github.com/dx4iot/goodwill-calculator-gui) -  A program to calculate goodwill 
+
+<img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png">
 
