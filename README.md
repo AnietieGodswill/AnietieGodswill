@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, C++, Javascript, Cryptography, Ethical Hacking, and Bug Bounty
 - 📫 How to reach me: dx4iot@gmail.com
 
-# Languages I have used
+# 👉 Languages I have used
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -23,11 +23,11 @@
 [**⭐ image-search**](https://github.com/dx4iot/image-search) - ***A simple image search app using React***<br>
 [**⭐ goodwill-calculator-gui**](https://github.com/dx4iot/goodwill-calculator-gui) -  ***A program to calculate goodwill***<br> 
 
-# Connect with me
+# 🤝 Connect with me
 | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/dx4iot/) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dx4iot) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-square-color.svg" alt="instagram logo" width="32">](https://www.instagram.com/dx4iot/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/dx4iot) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13324078/dx4iot) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@dx4iot) | [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dx4iot@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-# My github stats
+# 📈 My github stats
 <img src = "https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=false">
 
 
