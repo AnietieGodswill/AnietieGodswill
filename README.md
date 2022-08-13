@@ -2,7 +2,7 @@
 
 It has now been seven years since I am exploring my ways in the world of New Age technology. In all these years, what is my favourite thing in the whole world? I would say my keyboard! If it’s a war, I got my code as the skill and my keyboard as the weapon. When I was a kid, I wondered what it would feel like to be a hacker. I kept feeding my curiosity in the bits and pieces. I was getting introduced with new things everyday and over time. All this passion has made me targeted towards my main objective, that is, to learn everything which is out there about computer. For now, I have got a good grip over Python, JavaScript, C and C++. I think the main reason for my motivation is that I strongly believe, ***if you keep your mind clear and devote yourself to pure learning, there will come a time when your own reality will get surrounded by your self-made uniqueness.***
 
-<img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png">
+<!-- <img src="https://github.com/dx4iot/dx4iot/blob/master/top-img.png"> ––>
 
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Bug Bounty
