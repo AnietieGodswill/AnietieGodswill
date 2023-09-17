@@ -1,70 +1,34 @@
-### Welcome to my cyber portfolio!
+<h1 align="center"><b>Hi 👋, I'm Nishant</b></h1>
+
+It has now been seven years since I am exploring my ways in the world of New Age technology. In all these years, what is my favourite thing in the whole world? I would say my keyboard! If it’s a war, I got my code as the skill and my keyboard as the weapon. When I was a kid, I wondered what it would feel like to be a hacker. I kept feeding my curiosity in the bits and pieces. I was getting introduced with new things everyday and over time. All this passion has made me targeted towards my main objective, that is, to learn everything which is out there about computer. For now, I have got a good grip over Python, JavaScript, C and C++. I think the main reason for my motivation is that I strongly believe, ***if you keep your mind clear and devote yourself to pure learning, there will come a time when your own reality will get surrounded by your self-made uniqueness.***
 
 
-<h3 align="center">Application Security Consultant @ <a href='https://martiandefense.llc'>Martian Defense</a> | Jr. Application Security Engineer | Technical Content Writer @ <a href='https://martian1337.medium.com'> Medium</a></h3>
+- 🔭 I’m currently working on Python Projects
+- 🌱 I’m currently learning Bug Bounty
+- 👯 I’m looking to collaborate on Python
+- 💬 Ask me about Python, C++, Javascript, Cryptography, Ethical Hacking, and Bug Bounty
+- 📫 How to reach me: dx4iot@gmail.com
 
-## A little bit about me
+# 👉 Languages I have used
 
-🎓 &nbsp;I'm always engaged in training courses and engaged on several practical training platforms and looking to assist others on the cybersecurity pathway.
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-[![HTB](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Martian1337.png)](https://tryhackme.com/p/Martian1337)
-[![CodeWars](https://www.codewars.com/users/Martian1337/badges/large)](https://www.codewars.com/users/Martian1337)
+# 📒 Some of my projects 
+[**⭐ GHUB-INFO**](https://github.com/dx4iot/GHUB-INFO) - ***Find open source info about any github profile***<br>
+[**⭐ age-calculator**](https://github.com/dx4iot/age-calculator) - ***CALCULATE YOUR AGE ON OTHER PLANETS***<br>
+[**⭐ BOMB-C4**](https://github.com/dx4iot/BOMB-C4) - ***{EMAIL BOMBER}***<br>
+[**⭐ image-search**](https://github.com/dx4iot/image-search) - ***A simple image search app using React***<br>
+[**⭐ goodwill-calculator-gui**](https://github.com/dx4iot/goodwill-calculator-gui) -  ***A program to calculate goodwill***<br> 
 
+# 🤝 Connect with me
+| [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/dx4iot/) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dx4iot) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-square-color.svg" alt="instagram logo" width="32">](https://www.instagram.com/dx4iot/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/dx4iot) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13324078/dx4iot) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@dx4iot) | [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dx4iot@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-I am an Application Security Engineer/Researcher.
+# 📈 My github stats
+<img src = "https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=false">
 
-- 💟 Consultant Website [Martian Defense](https://martiandefense.llc/)
-- 🔭 Martian Defense [Merch Shop](https://shop.martiandefense.llc/)
-- 🌱 I’m currently learning application security engineering.
-- 📫 Follow me: [All Links](https://links.martiandefense.llc) and [LinkedIN](https://www.linkedin.com/in/dion-rupert-jr?trk=profile-badge)
-
-
-🌱 &nbsp;I'm on track with learning more about Mobile apps, cloud security, and network pentesting.\
-✍️ &nbsp;In my free time, I enjoy doing cybersecurity related activities on my [Discord Server](https://join.martiandefense.llc).
-
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martian1337&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martian1337&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martian1337&theme=zenburn&utcOffset=8)
-
-NOTE: This does not indicate my skill level or language proficiency, these are just GitHub metrics.
-
----
-
-## Published Articles
-
-<!-- Article-List:START -->
-- [Deploy vulnerable web applications for Application Security (AppSec) training in under 25 minutes](https://systemweakness.com/deploy-vulnerable-web-applications-for-application-security-appsec-training-in-under-30-minutes-1554585ccd74) System Weakness Publication
-- [eWPT to eWPTX Certified in 45 days (without INE labs) — Exam Review and Tips](https://systemweakness.com/ewpt-to-ewptx-certified-in-45-days-without-ine-labs-22d4e64da57b) System Weakness Publication
-- [Exploiting CVE-2022–42889 (Text4Shell/ACT4Shell)](https://systemweakness.com/walkthrough-of-exploiting-cve-2022-42889-text4shell-act4shell-558b37fbc273) System Weakness Publication
-- [The Application Penetration Testing Process: A checklist for every engagement](https://systemweakness.com/the-application-penetration-testing-process-a-checklist-for-every-engagement-d89e9f4dfd9c)
-- [Bug Bounty for Beginners (Part 1): Utilizing OWASP to get into BBPs](https://www.martiandefense.llc/post/bug-bounty-for-beginners-part-1-utilizing-owasp-to-get-into-bbps)
-- [Bug Bounty for Beginners (Part 2): Recon for Modern Bug Bounty Hunting](https://www.martiandefense.llc/post/bug-bounty-for-beginners-part-2-recon-for-modern-bug-bounty-hunting)
-- [Bug Bounty for Beginners (Part 3): Understanding The Reporting Process](https://www.martiandefense.llc/post/bug-bounty-for-beginners-part-3-understanding-the-reporting-process)
-- [Cybersecurity Risks of 5G connectivity on IoT devices](https://www.martiandefense.llc/post/cybersecurity-risks-of-5g-connectivity-on-iot-devices)
-- [Outlining the Vulnerability Assessment Report](https://medium.com/martian-defense/outlining-the-vulnerability-assessment-report-da3d6ed93863)
-- [Outlining the Penetration Test Report](https://medium.com/martian-defense/outlining-the-penetration-test-report-9078f7539e1b)
-- [Unveiling Trickest: My Secret Weapon for Automating the Bug Bounty Hunt](https://read.martiandefense.llc/unveiling-trickest-my-secret-weapon-for-automating-the-bug-bounty-hunt-80e274863244) (Published in Intigriti's [Bug Bytes](https://blog.intigriti.com/2023/06/21/bug-bytes-204-everything-you-missed-from-nahamcon/))
-- [Mobile App Pentesting: AndroGOAT Assessment Walkthrough](https://infosecwriteups.com/mobile-pentesting-androgoat-assessment-walkthrough-1a63a7edc677) Published in InfoSec Writeups Blog
-- [Google Dorking and Shodan Exploration for Beginners: Unveiling Exposed Webcams](https://www.martiandefense.llc/post/google-dorking-and-shodan-exploration-for-beginners-unveiling-exposed-webcams)
-
-<!-- Article-List:END -->
-
-## Additional Content/Projects
-
-Your sponsorships enable me to work on various Cybersecurity projects so that I can share with the industry!
-
-The intent is to bring Optimized code, resources and tools allow penetration testers and software security professionals to be proficient in their skills.
-
-<!-- Project-List:START -->
-- [CyberSpace Notebook](https://book.martiandefense.llc/)
-- [Youtube Channel](https://www.youtube.com/@MartianDefense)
-- [InfoHunter(Web Recon Tool)](https://hunt.martiandefense.llc/)
-- [CyberSpace Dashboard](https://start.me/p/ADPELy/cyberspace)
-- [DevSecOps Pipeline 1 for Learners](https://book.martiandefense.llc/field-notes/devsecops/lab-1)
-- [Online Courses(in-progress/unavailable)](https://edu.martiandefense.llc/)
-
-
-<!-- Project-List:END -->
