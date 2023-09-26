@@ -1,34 +1,90 @@
-<h1 align="center"><b>Hi 👋, I'm Nishant</b></h1>
+<h1 align="center"><b>Hi 👋, I'm Abdul-Majeed Muazu</b></h1>
 
-It has now been seven years since I am exploring my ways in the world of New Age technology. In all these years, what is my favourite thing in the whole world? I would say my keyboard! If it’s a war, I got my code as the skill and my keyboard as the weapon. When I was a kid, I wondered what it would feel like to be a hacker. I kept feeding my curiosity in the bits and pieces. I was getting introduced with new things everyday and over time. All this passion has made me targeted towards my main objective, that is, to learn everything which is out there about computer. For now, I have got a good grip over Python, JavaScript, C and C++. I think the main reason for my motivation is that I strongly believe, ***if you keep your mind clear and devote yourself to pure learning, there will come a time when your own reality will get surrounded by your self-made uniqueness.***
+A talented and product-focused professional with 12 years experience designing and developing sophisticated software systems; with deep and broad development skills across various stacks and platforms. In the process, I have become a valuable consultant to product owners on product/ engineering tradeoffs while providing support for change, fault and release management.
 
 
-- 🔭 I’m currently working on Python Projects
-- 🌱 I’m currently learning Bug Bounty
-- 👯 I’m looking to collaborate on Python
-- 💬 Ask me about Python, C++, Javascript, Cryptography, Ethical Hacking, and Bug Bounty
-- 📫 How to reach me: dx4iot@gmail.com
+### Core Development Skills 💻
 
-# 👉 Languages I have used
+1. **Backend / Web APIs / Microservices / Scripting** 🌐
+   - JavaScript, TypeScript (Node)
+   - Java (EE, Spring), SQL/MySQL/Oracle, Microsoft .Net (C#)
+   - Python
+   - Experience: 5-9 years, Projects: > 10
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+2. **Blockchain Development** 🌐🔗
+   - Solidity and Web3 Js
+   - Experience: 1 year, Projects: 1
 
-# 📒 Some of my projects 
-[**⭐ GHUB-INFO**](https://github.com/dx4iot/GHUB-INFO) - ***Find open source info about any github profile***<br>
-[**⭐ age-calculator**](https://github.com/dx4iot/age-calculator) - ***CALCULATE YOUR AGE ON OTHER PLANETS***<br>
-[**⭐ BOMB-C4**](https://github.com/dx4iot/BOMB-C4) - ***{EMAIL BOMBER}***<br>
-[**⭐ image-search**](https://github.com/dx4iot/image-search) - ***A simple image search app using React***<br>
-[**⭐ goodwill-calculator-gui**](https://github.com/dx4iot/goodwill-calculator-gui) -  ***A program to calculate goodwill***<br> 
+3. **Frontend / Mobile** 📱
+   - iOS/Android/React (Xcode, IntelliJ, Java, Swift, ES6, Redux)
+   - Core Web (HTML, CSS, JavaScript), JSP/JSF, XAML
+   - Experience: 3-6 years, Projects: 7
 
-# 🤝 Connect with me
-| [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/dx4iot/) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dx4iot) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-square-color.svg" alt="instagram logo" width="32">](https://www.instagram.com/dx4iot/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/dx4iot) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13324078/dx4iot) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@dx4iot) | [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dx4iot@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+4. **QA & Testing** 🧪
+   - Selenium, Postman, JUnit, Jest, XCTest, Cucumber
+   - Experience: 5 years, Projects: 3
 
-# 📈 My github stats
-<img src = "https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=false">
+5. **Planning, Code Management & Deployment Operations** 📊
+   - Planning / Task Management / Documentation - Confluence, Jira
+   - Source Control - Git (GitHub, Azure DevOps, Bitbucket)
+   - Cloud / Deployment - Docker, Kubernetes, AWS, Azure, Firebase
+   - CI / CD - Fastlane, Jenkins, GitHub Actions, AWS CodePipeline
+   - Experience: 1-3 years, Projects: 3 - 7
 
+### Career History 🚀
+
+**Heathfield - Lead Developer** - Nov 2020 – Present (London - Remote) 🌟
+- DevOps environment: Backend APIs and Frontend apps
+- Translating project requirements to product spec and design
+- Building Frontend and cloud-based backend micro-services API; Integrating with third-party APIs
+- Architecting cloud-based deployments
+- Supporting user-testing activities
+
+**IBM - Senior Developer** - Mar 2020 - Nov 2020 (London) 💼
+- Fullstack Developer in agile DevOps environment
+- Technical consultant for System’s Architect and Product Owner
+- Developing blockchain backend systems and micro-services in AWS with API integrations
+- Deploying and maintaining cloud services
+- Championing code quality and leading code reviews
+- Mentoring associate developers
+
+**Guardian News & Media - iOS Developer** - Jul 2019 - Mar 2020 (9 months) 📱
+- Mobile Apps team member
+- Developed and enhanced company’s mobile apps
+- Code reviews, liaising with product owners and UX designers
+- Monitoring delivery pipeline, ensuring continuous delivery and QoS
+- Accessibility Champion, lead key work streams
+- Presented product updates to stakeholders
+
+**Beem - Senior Developer** - Jan 2018 - Jul 2019 (1 year, 7 months) 📲
+- Front-end/Mobile developer
+- Developed and maintained Mobile Apps for various clients
+- Prototyped UI/UX layouts and components
+- Technical system analysis, code reviews, mentoring
+- Managed delivery pipeline, compiled app analytics report
+
+**HeathField - Senior Developer** - Nov 2012 - Dec 2017 (5 years) 🌐📱
+- Front-end/Mobile and Backend developer
+- Led backend and web-based frontend app development
+- Custom APIs, integration with 3rd-Party APIs
+- Mobile app design and development
+- Setup and maintenance of Cloud-based systems
+
+### Volunteer Experience 🌟
+
+**FUT MINNA - Member of Research Ethics Committee** - Jan 2021 - Nov 2022 (Minna, Niger State)
+- Ensured ethical guidelines in research
+- Ethical reviews, protection of participants' rights, and conflicts resolution
+- Policy development, training, and monitoring of research projects
+
+### Qualifications 📚
+
+**Education:**
+- MSc. Software Engineering (Distinction) - University of Greenwich (London) - 2015
+- B.Eng Electrical & Computer Engineering - Fed. University of Technology, (Minna) - 2011
+
+**Certifications, Training & Badges:**
+- Blockchain Certification - IBM
+- Certified Cloud Practitioner - AWS
+- DevSecOps Certification - IBM
+- Microsoft Certified Professional (MVC Applications & Web Developer)
