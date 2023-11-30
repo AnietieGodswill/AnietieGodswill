@@ -1,4 +1,3 @@
-<h1 align="center"><b>Hi 👋, I'm Nishant</b></h1>
 
 ![Black and White Creative Profile Information LinkedIn Article Cover Image](https://github.com/dx4iot/dx4iot/assets/56861578/09b5af81-0039-4fbb-aa81-d50faf397578)
 
