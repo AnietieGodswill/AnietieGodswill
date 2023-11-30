@@ -26,8 +26,4 @@ After seven years immersed in the world of New Age technology, my favorite thing
 [**⭐ goodwill-calculator-gui**](https://github.com/dx4iot/goodwill-calculator-gui) -  ***A program to calculate goodwill***<br> 
 
 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-# 📈 My github stats
-<img src = "https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=false">
 
