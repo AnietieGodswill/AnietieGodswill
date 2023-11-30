@@ -1,6 +1,5 @@
-
-![Black and White Creative Profile Information LinkedIn Article Cover Image](https://github.com/dx4iot/dx4iot/assets/56861578/09b5af81-0039-4fbb-aa81-d50faf397578)
-
+<h1 align="center"><b>Hi 👋, I'm Nishant</b></h1>
+<h3 align="center">Explorer | Freelancer | Udemy Instructor</h3>
 
 After seven years immersed in the world of New Age technology, my favorite thing is undoubtedly my keyboard. In this journey, I've honed my coding skills, treating my code as a skill and my keyboard as a weapon in the battlefield of technology. From childhood dreams of being a hacker to mastering Python, JavaScript, C, and C++, my passion for learning everything about computers has become my driving force. I firmly believe that dedicating oneself to pure learning with a clear mind eventually results in a self-made uniqueness shaping one's own reality.
 
