@@ -9,17 +9,6 @@ Experienced professional with a strategic mindset, adept in both technical and n
 - 💬 Ask me about Python, C++, Javascript, Cryptography, Ethical Hacking, and Bug Bounty
 - 📫 How to reach me: dx4iot@gmail.com
 
-# 👉 Languages I have used
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-
-# 📒 Some of my projects 
-[**⭐ GHUB-INFO**](https://github.com/dx4iot/GHUB-INFO) - ***Find open source info about any github profile***<br>
-[**⭐ age-calculator**](https://github.com/dx4iot/age-calculator) - ***CALCULATE YOUR AGE ON OTHER PLANETS***<br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
